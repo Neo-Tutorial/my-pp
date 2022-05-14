@@ -1,3 +1,9 @@
+.Modal {
+  height: '200px';
+  top: '40%';
+  left: 40%;}
+
+/*
 .App {
   text-align: center;
 }
@@ -36,3 +42,8 @@
     transform: rotate(360deg);
   }
 }
+
+.BT {
+  color: #61dafb;
+}
+*/
